@@ -2,7 +2,7 @@
 
 A visual Python game about making pizza orders, earning money, and upgrading ingredients.
 
-[View my programming portfolio](https://charliebarra.github.io/portfolio/programming.html)
+[View my programming portfolio](https://www.charliebarra.com/programming.html)
 
 ![The restaurant game showing an order, pizza, ingredient controls, and upgrade shop](images/restaurant-screenshot.png)
 
