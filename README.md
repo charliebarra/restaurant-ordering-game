@@ -52,3 +52,7 @@ Click **Start Game**, use the ingredient buttons to build the displayed order, a
 ## Source Integrity
 
 The original source is intentionally unchanged. This README explains the code that exists; it does not add assignment details or features that were not in the supplied project.
+
+## Repository Context
+
+This repository was assembled in July 2026 from original project files for portfolio review. Its Git history records archival organization and later documentation updates, not the project's original development timeline. The source file and screenshot are preserved from the original project materials; `SOURCE-INTEGRITY.md` records the source checksum.
