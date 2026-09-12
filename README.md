@@ -56,3 +56,7 @@ The original source is intentionally unchanged. This README explains the code th
 ## Repository Context
 
 This repository was assembled in July 2026 from original project files for portfolio review. Its Git history records archival organization and later documentation updates, not the project's original development timeline. The source file and screenshot are preserved from the original project materials; `SOURCE-INTEGRITY.md` records the source checksum.
+
+## Repository Context
+
+This repository was assembled in July 2026 from original project files for portfolio review. Its Git history records archival organization and later documentation updates, not the project's original development timeline. The source files, screenshots, and source-integrity record preserve the available original project evidence.
